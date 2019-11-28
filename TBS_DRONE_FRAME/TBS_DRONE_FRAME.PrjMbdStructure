@@ -1,0 +1,10 @@
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=..\ANALOG-CAMERA\ANALOG-CAMERA.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\ANALOG-CAMERA\ANALOG-CAMERA.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=..\GIMBAL-VERTICAL\GIMBAL-VERTICAL.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\GIMBAL-VERTICAL\GIMBAL-VERTICAL.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\GIMBAL_CONTROLLER\GIMBAL_CONTROLLER.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\GIMBAL_CONTROLLER\GIMBAL_CONTROLLER.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\TBS_FRAME_BOTTOM\TBS_FRAME_BOTTOM.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\TBS_FRAME_BOTTOM\TBS_FRAME_BOTTOM.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\TBS_FRAME_TOP\TBS_FRAME_TOP.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\TBS_FRAME_TOP\TBS_FRAME_TOP.PrjPcb
